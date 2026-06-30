@@ -93,6 +93,3 @@ Tested using a combination of Postman (API-level validation) and manual UI testi
 ## Project Report
 
 A detailed dissertation report covering literature review, full architecture, sequence diagrams, and test cases is included in this repo: [`Final_Report (1).pdf`](./Final_Report%20(1).pdf)
-
----
-Built by [Harshitha V](https://github.com/harshithav99) as part of the M.Tech Software Engineering program at BITS Pilani.
