@@ -2,7 +2,7 @@
 
 A full-stack, automated document review and task tracking system built to replace manual, email-based document approval workflows in regulated industries (e.g. life sciences). The system manages the complete document lifecycle, from draft to approval, using role-based access control, automated deadline-based state transitions, and AI-assisted summarization.
 
-Built as part of an M.Tech dissertation at BITS Pilani (Software Engineering, Full Stack Development), in collaboration with Accenture.
+Built as part of an M.Tech dissertation at BITS Pilani (Software Engineering, Full Stack Development).
 
 ## Why this project
 
